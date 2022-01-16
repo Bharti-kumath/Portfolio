@@ -37,17 +37,7 @@ body {
   width: 100px;
   height: 100px;
 }
- .loader{
-  animation: fadeout 0.8s;
-  animation-fill-mode: forwards;
-}
 
-@keyframes fadeout{
-  100%{
-    opacity: 0;
-    visibility: hidden;
-  }
-}
 
 .header {
   /* background-image: linear-gradient(rgba(202, 190, 190, 0.4), rgba(235, 233, 233, 0.4)), */
