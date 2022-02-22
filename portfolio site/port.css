@@ -671,10 +671,17 @@ footer div::after {
   }
   .subheader {
     padding: 2rem;
-    height: 50vh;
+    padding-top:0;
+    height: 38vh;
   }
   .subheader p {
-    width: 60%;
+    margin-top: 0.5rem;
+    width: 68%;
+  }
+  .name,.name2{
+    font-size: 2.5rem;
+    line-height: 3rem;
+    margin-bottom: 0;
   }
   .profile {
     text-align: center;
